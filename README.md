@@ -4,9 +4,9 @@ ml for adhd prediction among women
 # Overview
 Neuropsychiatric disorders that occur in development, like anxiety, depression, autism, and attention deficit hyperactivity disorder, or ADHD, often differ in how and to what extent they affect males and females. ADHD occurs in about 11% of adolescents, with around 14% of boys and 8% of girls having a diagnosis. There is some evidence that girls with ADHD can often go undiagnosed, as they tend to have more inattentive symptoms which are harder to detect. Girls with ADHD who are undiagnosed will continue suffering with symptoms that burden their mental health and capacity to function.
 
-# Execytion Process
+# Execution Process
 
-1. Initial Data Exploration**
+1. Initial Data Exploration
 - **Data Profiling**: 
   - Inspect the dataset for missing values, outliers, and distribution of target variables (ADHD_Outcome and Sex_F).
   - Look for potential imbalances in the dataset, especially in female ADHD cases, since they are weighted higher in evaluation.
